@@ -1,4 +1,5 @@
 # FritzGate
+
 **FritzGate** transforms your **Ai Thinker board** into a smart thermostat controller. This project enables seamless control of thermostats connected to a **FRITZ!Box**, integrating any of 70+ temperature sensors models for precise temperature control.
 
 ![FritzGate screenshot](docs/FritzGate_Screenshot.svg)
